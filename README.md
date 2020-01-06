@@ -1,2 +1,4 @@
 # SnakeGame
-The snake game in Python!
+Language: Python
+
+Purpose: To recreate the Snake Game (for fun!)
